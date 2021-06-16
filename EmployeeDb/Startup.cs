@@ -67,7 +67,7 @@ namespace EmployeeDb
             // specifying the Swagger JSON endpoint.
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Custom API V1");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Employee API");
             });
 
             app.UseEndpoints(endpoints =>
