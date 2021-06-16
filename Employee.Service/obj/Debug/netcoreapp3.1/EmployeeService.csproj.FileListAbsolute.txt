@@ -1,0 +1,12 @@
+C:\Users\DJ526SX\source\repos\EmployeeDb\Employee.Service\bin\Debug\netcoreapp3.1\EmployeeService.deps.json
+C:\Users\DJ526SX\source\repos\EmployeeDb\Employee.Service\bin\Debug\netcoreapp3.1\EmployeeService.dll
+C:\Users\DJ526SX\source\repos\EmployeeDb\Employee.Service\bin\Debug\netcoreapp3.1\EmployeeService.pdb
+C:\Users\DJ526SX\source\repos\EmployeeDb\Employee.Service\bin\Debug\netcoreapp3.1\EmployeeData.dll
+C:\Users\DJ526SX\source\repos\EmployeeDb\Employee.Service\bin\Debug\netcoreapp3.1\EmployeeData.pdb
+C:\Users\DJ526SX\source\repos\EmployeeDb\Employee.Service\obj\Debug\netcoreapp3.1\EmployeeService.csprojAssemblyReference.cache
+C:\Users\DJ526SX\source\repos\EmployeeDb\Employee.Service\obj\Debug\netcoreapp3.1\EmployeeService.AssemblyInfoInputs.cache
+C:\Users\DJ526SX\source\repos\EmployeeDb\Employee.Service\obj\Debug\netcoreapp3.1\EmployeeService.AssemblyInfo.cs
+C:\Users\DJ526SX\source\repos\EmployeeDb\Employee.Service\obj\Debug\netcoreapp3.1\EmployeeService.csproj.CoreCompileInputs.cache
+C:\Users\DJ526SX\source\repos\EmployeeDb\Employee.Service\obj\Debug\netcoreapp3.1\EmployeeService.csproj.CopyComplete
+C:\Users\DJ526SX\source\repos\EmployeeDb\Employee.Service\obj\Debug\netcoreapp3.1\EmployeeService.dll
+C:\Users\DJ526SX\source\repos\EmployeeDb\Employee.Service\obj\Debug\netcoreapp3.1\EmployeeService.pdb

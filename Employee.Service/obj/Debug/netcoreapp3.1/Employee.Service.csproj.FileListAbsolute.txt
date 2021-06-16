@@ -1,0 +1,3 @@
+C:\Users\DJ526SX\source\repos\EmployeeDb\Employee.Service\obj\Debug\netcoreapp3.1\Employee.Service.AssemblyInfoInputs.cache
+C:\Users\DJ526SX\source\repos\EmployeeDb\Employee.Service\obj\Debug\netcoreapp3.1\Employee.Service.AssemblyInfo.cs
+C:\Users\DJ526SX\source\repos\EmployeeDb\Employee.Service\obj\Debug\netcoreapp3.1\Employee.Service.csproj.CoreCompileInputs.cache

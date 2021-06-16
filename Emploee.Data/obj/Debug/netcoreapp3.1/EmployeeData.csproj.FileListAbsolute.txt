@@ -1,0 +1,11 @@
+C:\Users\DJ526SX\source\repos\EmployeeDb\Emploee.Data\bin\Debug\netcoreapp3.1\EmployeeData.deps.json
+C:\Users\DJ526SX\source\repos\EmployeeDb\Emploee.Data\bin\Debug\netcoreapp3.1\EmployeeData.runtimeconfig.json
+C:\Users\DJ526SX\source\repos\EmployeeDb\Emploee.Data\bin\Debug\netcoreapp3.1\EmployeeData.runtimeconfig.dev.json
+C:\Users\DJ526SX\source\repos\EmployeeDb\Emploee.Data\bin\Debug\netcoreapp3.1\EmployeeData.dll
+C:\Users\DJ526SX\source\repos\EmployeeDb\Emploee.Data\bin\Debug\netcoreapp3.1\EmployeeData.pdb
+C:\Users\DJ526SX\source\repos\EmployeeDb\Emploee.Data\obj\Debug\netcoreapp3.1\EmployeeData.AssemblyInfoInputs.cache
+C:\Users\DJ526SX\source\repos\EmployeeDb\Emploee.Data\obj\Debug\netcoreapp3.1\EmployeeData.AssemblyInfo.cs
+C:\Users\DJ526SX\source\repos\EmployeeDb\Emploee.Data\obj\Debug\netcoreapp3.1\EmployeeData.csproj.CoreCompileInputs.cache
+C:\Users\DJ526SX\source\repos\EmployeeDb\Emploee.Data\obj\Debug\netcoreapp3.1\EmployeeData.dll
+C:\Users\DJ526SX\source\repos\EmployeeDb\Emploee.Data\obj\Debug\netcoreapp3.1\EmployeeData.pdb
+C:\Users\DJ526SX\source\repos\EmployeeDb\Emploee.Data\obj\Debug\netcoreapp3.1\EmployeeData.genruntimeconfig.cache
